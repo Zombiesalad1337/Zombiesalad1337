@@ -6,9 +6,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Dunder Innit? | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<p align="center">
 
-[<img align="left" alt="Rohit Choudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="mailto:rohit01031999@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="rohit01031999@gmail.com" height="25" width="25" /> [Email](mailto:rohit01031999@gmail.com)
+
+
+<a href="https://www.linkedin.com/in/rohit-choudhary-26739520a/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-icon-eps/linkedin-icon-eps-29.jpg" alt="Rohit Choudhary" height="25" width="25" /> [LinkedIn](https://www.linkedin.com/in/rohit-choudhary-26739520a//)
+
+<a href="https://www.youtube.com/channel/UCiD2Db1F3ADiG5SxaModQ-A" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Dunder Innit?" height="25" width="25" />  [YouTube](https://www.youtube.com/channel/UCiD2Db1F3ADiG5SxaModQ-A)
+</p>
 
 <br />
 
@@ -19,3 +25,8 @@
 
 <!-- <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> -->
 </p>
+
+[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zombiesalad1337&count_private=true&show_icons=true&theme=radical)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zombiesalad1337&layout=compact&langs_count=8)]
+
