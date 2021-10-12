@@ -1,6 +1,4 @@
-<p align="center">
 ![](https://github.com/Zombiesalad1337/Zombiesalad1337/blob/main/assets/dunderinnit.gif?raw=true)
-</p>
  
 ### Cheers Big Fella. I'm Rohit
 
