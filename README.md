@@ -1,8 +1,8 @@
-### Cheers big fella. I'm Rohit
+### Cheers Big Fella. I'm Rohit
 
 ## I am a Junior CSE Undergrad
 - Currently learning Android App Development
-- Intesented in System Software and Artificial Intelligence
+- Interested in Android Development, System Software and Artificial Intelligence
 
 ### Connect with me:
 
