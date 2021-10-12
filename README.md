@@ -1,3 +1,5 @@
+![](dunderinnit_1.gif)
+ 
 ### Cheers Big Fella. I'm Rohit
 
 ## I am a Junior CSE Undergrad
