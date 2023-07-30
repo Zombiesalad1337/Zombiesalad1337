@@ -1,10 +1,8 @@
-![](https://github.com/Zombiesalad1337/Zombiesalad1337/blob/main/assets/dunderinnit.gif?raw=true)
- 
-### Cheers Big Fella. I'm Rohit
+### Hello there. I'm Rohit.
 
-## I am a Senior CSE Undergrad
-- Currently learning Android App Development
-- Interested in Android Development, System Software and Artificial Intelligence
+## I am a Software Developer.
+- Currently working on a raytracer.
+- Interested in Computer Graphics, System Software and Artificial Intelligence.
 
 ### Connect with me:
 
