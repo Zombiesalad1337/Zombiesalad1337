@@ -26,5 +26,4 @@
 <!-- <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> -->
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zombiesalad1337&layout=compact&langs_count=8&count_private=true&theme=radical)
 
